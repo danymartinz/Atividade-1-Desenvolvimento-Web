@@ -19,5 +19,5 @@ Nesta atividade, você aprenderá a criar uma página HTML simples e publicá-la
 
 ## Entrega  
 - Disponibilize o link do GitHub Pages e o repositório no local indicado.
-- 
+  https://danymartinz.github.io/Atividade-1-Desenvolvimento-Web/
 
